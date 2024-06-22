@@ -1,4 +1,4 @@
 # first-use
 My first repository.
 <br>
-Author-Piyush Anand
+Author-Piyush Anand (nitc student)
